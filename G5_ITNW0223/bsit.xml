@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<Students>
+	<Student>
+		<LastName>Abebuag</LastName>
+		<FirstName>Antonette</FirstName>
+		<MiddleName>R.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>B</Section>
+		<Address>Pto Rivas, Balanga City, Bataan</Address>
+		<Email>antonette.abebuag@gmail.com</Email>
+		<Contact>09284161409</Contact>
+		<Guardian>Regina Abebuag</Guardian>
+		<GuardianContact>09193170501</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>Botio</LastName>
+		<FirstName>Christian</FirstName>
+		<MiddleName>G.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>B</Section>
+		<Address>Balut(Pob.), Orion, Bataan</Address>
+		<Email>guzmanchris609@gmail.com</Email>
+		<Contact>09958174759</Contact>
+		<Guardian>Teresita Guzman</Guardian>
+		<GuardianContact>09383902681</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>Camacho</LastName>
+		<FirstName>Kylah</FirstName>
+		<MiddleName>A.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>A</Section>
+		<Address>Alion, Mariveles, Bataan</Address>
+		<Email>imklahc27@gmail.com</Email>
+		<Contact>09774970563</Contact>
+		<Guardian>Arleen Camacho</Guardian>
+		<GuardianContact>09774970563</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>Cezar</LastName>
+		<FirstName>Denzel Eabraham</FirstName>
+		<MiddleName>V.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>B</Section>
+		<Address>Gabon, Abucay, Bataan</Address>
+		<Email>denzelcezar@gmail.com</Email>
+		<Contact>09347811075</Contact>
+		<Guardian>Teodula Villanueva</Guardian>
+		<GuardianContact>09194788297</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>Dela Cruz</LastName>
+		<FirstName>Erika Cate</FirstName>
+		<MiddleName>M.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>B</Section>
+		<Address>Culis, Hermosa, Bataan</Address>
+		<Email>ecmdelacruz@bpsu.edu.ph</Email>
+		<Contact>09950266795</Contact>
+		<Guardian>Elsie Dela Cruz</Guardian>
+		<GuardianContact>09307357434</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>De Castro</LastName>
+		<FirstName>Nicole</FirstName>
+		<MiddleName>M.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>B</Section>
+		<Address>Capitangan, Abucay, Bataan</Address>
+		<Email>happynikolet@gmail.com</Email>
+		<Contact>09127904736</Contact>
+		<Guardian>Erlinda De Castro</Guardian>
+		<GuardianContact>09503189988</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>Dimla</LastName>
+		<FirstName>Christian Joseph</FirstName>
+		<MiddleName>D.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>B</Section>
+		<Address>Tenejero, Balanga City, Bataan</Address>
+		<Email>cjdimla1227@gmail.com</Email>
+		<Contact>09455377999</Contact>
+		<Guardian>Agnes Dimla</Guardian>
+		<GuardianContact>09218471370</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>Gamboa</LastName>
+		<FirstName>Gilbert</FirstName>
+		<MiddleName>C.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>B</Section>
+		<Address>Culis, Hermosa, Bataan</Address>
+		<Email>gilbertcruzgamboa2k@gmail.com</Email>
+		<Contact>09503988425</Contact>
+		<Guardian>Gemma Gamboa</Guardian>
+		<GuardianContact>09201997299</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>Navarro</LastName>
+		<FirstName>Patricia Kyle</FirstName>
+		<MiddleName>E.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>C</Section>
+		<Address>Tenejero, Balanga City, Bataan</Address>
+		<Email>pkesg.nav10@gmail.com</Email>
+		<Contact>09980303519</Contact>
+		<Guardian>Pamela Navarro</Guardian>
+		<GuardianContact>09294354447</GuardianContact>
+	</Student>
+	<Student>
+		<LastName>Valentos</LastName>
+		<FirstName>Danielle</FirstName>
+		<MiddleName>M.</MiddleName>
+		<Course>Bachelor of Science in Information Technology</Course>
+		<Major>Network and Web Application</Major>
+		<Year>2</Year>
+		<Section>C</Section>
+		<Address>Laon, Abucay, Bataan</Address>
+		<Email>hotdogfishbal14@gmail.com</Email>
+		<Contact>09724947355</Contact>
+		<Guardian>Susan Valentos</Guardian>
+		<GuardianContact>09529845625</GuardianContact>
+	</Student>
+</Students>

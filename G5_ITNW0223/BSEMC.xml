@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<StudentData title="Student Record">
+<Student>
+    <LastName>Ador</LastName>
+    <FirstName>Shea Nicole</FirstName>
+    <MiddleName>C.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Game Development</Major>
+    <Year>3</Year>
+    <Section>A</Section>
+    <Address>Camias Landing, Limay, Bataan</Address>
+    <Email>sncador@bpsu.edu.ph</Email>
+    <Contact>09393449490</Contact>
+    <Guardian>Adelfa C. Ador</Guardian>
+    <GuardianContact>------</GuardianContact>
+</Student>
+<Student>
+    <LastName>Alabado</LastName>
+    <FirstName>Mark Joseph</FirstName>
+    <MiddleName>B.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Digital Animation Technology</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Bagong Silang Balanga City Bataan</Address>
+    <Email>markalabado7@gmail.com</Email>
+    <Contact>------</Contact>
+    <Guardian>Victoria Vestil</Guardian>
+    <GuardianContact>------</GuardianContact>
+</Student>
+<Student>
+    <LastName>Borja</LastName>
+    <FirstName>Romy Rayster</FirstName>
+    <MiddleName>M.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Game Development</Major>
+    <Year>1</Year>
+    <Section>A</Section>
+    <Address>Panilao, Pilar, Bataan</Address>
+    <Email>romyraysterborja@gmail.com</Email>
+    <Contact>09952222799</Contact>
+    <Guardian>Leopoldo P. Madriaga</Guardian>
+    <GuardianContact>09275228291</GuardianContact>
+</Student>
+<Student>
+    <LastName>De Mesa</LastName>
+    <FirstName>Gelly</FirstName>
+    <MiddleName>C.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Game Development</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Reformista, Limay, Bataan</Address>
+    <Email>demesagellycaraig@gmail.com</Email>
+    <Contact>09387023817</Contact>
+    <Guardian>Liza C. De Mesa</Guardian>
+    <GuardianContact>09093678071</GuardianContact>
+</Student>
+<Student>
+    <LastName>Macalinao</LastName>
+    <FirstName>Marcelino Jr.</FirstName>
+    <MiddleName>A.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Digital Animation Technology</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Tabing Ilog, Samal, Bataan</Address>
+    <Email>marcemacalinao48@gmail.com</Email>
+    <Contact>09565788824</Contact>
+    <Guardian>Mary Rose Macalinao </Guardian>
+    <GuardianContact>09435865892</GuardianContact>
+</Student>
+<Student>
+    <LastName>Mariano</LastName>
+    <FirstName>Winald John</FirstName>
+    <MiddleName>C.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Game Development</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Wawa, Pilar, Bataan</Address>
+    <Email>Wjcmariano@bpsu.edu.ph</Email>
+    <Contact>09102900376</Contact>
+    <Guardian>Catherine Mariano</Guardian>
+    <GuardianContact>09478751259</GuardianContact>
+</Student>
+<Student>
+    <LastName>Medrano</LastName>
+    <FirstName>Jezzie</FirstName>
+    <MiddleName>D.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Game Development</Major>
+    <Year>3</Year>
+    <Section>A</Section>
+    <Address>Sabatan, Orion, Bataan</Address>
+    <Email>jdmedrano@bpsu.edu.ph</Email>
+    <Contact>09107545453</Contact>
+    <Guardian>Jasmin Medrano</Guardian>
+    <GuardianContact>09104325677</GuardianContact>
+</Student>
+<Student>
+    <LastName>Reyes</LastName>
+    <FirstName>Beatrice Mae</FirstName>
+    <MiddleName>E.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Game Development</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Cupang Proper, Balanga, Bataan</Address>
+    <Email>bmreyes@bpsu.edu.ph</Email>
+    <Contact>09993675282</Contact>
+    <Guardian>Monette E. Reyes</Guardian>
+    <GuardianContact>09501993204</GuardianContact>
+</Student>
+<Student>
+    <LastName>Sanchez</LastName>
+    <FirstName>Idrian Paulo</FirstName>
+    <MiddleName>M.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Digital Animation Technology</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Panilao Pilar Bataan</Address>
+    <Email>sanchezidrian@gmail.com</Email>
+    <Contact>09275251205</Contact>
+    <Guardian>Irene Sanchez</Guardian>
+    <GuardianContact>09051477403</GuardianContact>
+</Student>
+<Student>
+    <LastName>Tordera</LastName>
+    <FirstName>Jorwinn</FirstName>
+    <MiddleName>T.</MiddleName>
+    <Course>Bachelor of Science in Entertainment and Multimedia Computing</Course>
+    <Major>Digital Animation Technology</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Maxwell st. Cupang Proper, Balanga City, Bataan</Address>
+    <Email>jorwinn.tordera123@gmail.com</Email>
+    <Contact>------</Contact>
+    <Guardian>Rowena Tordera</Guardian>
+    <GuardianContact>------</GuardianContact>
+</Student>
+</StudentData>

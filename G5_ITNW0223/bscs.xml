@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<Students>
+<Student>
+    <LastName>Bernatia</LastName>
+    <FirstName>Alliah</FirstName>
+    <MiddleName>V.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Network and Data Communication</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Bagac, Bataan</Address>
+    <Email>bernatiavlnv@gmail.com</Email>
+    <Contact>09662789011</Contact>
+    <Guardian>Aurea Bernatia</Guardian>
+    <GuardianContact>09110875623</GuardianContact>
+</Student>
+<Student>
+    <LastName>Diamse</LastName>
+    <FirstName>John Vincent</FirstName>
+    <MiddleName>C.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Software Development</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Purok III-55 Puting buhangin, Orion Bataan</Address>
+    <Email>jvesmaid@gmail.com</Email>
+    <Contact>09153733809</Contact>
+    <Guardian>Valentina D. Canoy</Guardian>
+    <GuardianContact>09352916560</GuardianContact>
+</Student>
+<Student>
+    <LastName>Joson</LastName>
+    <FirstName>Rachelle Ann</FirstName>
+    <MiddleName>P.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Network and Data Communication</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Landing, Pilar, Bataan</Address>
+    <Email>josonrachelle29@gmail.com</Email>
+    <Contact>09502832513</Contact>
+    <Guardian>Roberto Joson</Guardian>
+    <GuardianContact>09294198985</GuardianContact>
+</Student>
+<Student>
+    <LastName>Laquindanum</LastName>
+    <FirstName>Cindy</FirstName>
+    <MiddleName>M.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Network and Data Communication</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Balanga City, Bataan</Address>
+    <Email>cindymanuellaquindanum@gmail.com</Email>
+    <Contact>09095066842</Contact>
+    <Guardian>Lolit Laquindanum</Guardian>
+    <GuardianContact>09109936998</GuardianContact>
+</Student>
+<Student>
+    <LastName>Marabe</LastName>
+    <FirstName>Imee Rose</FirstName>
+    <MiddleName>L.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Software Development</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Bo. Site Palili Samal Bataan</Address>
+    <Email>imeerosemarabe@gmail.com</Email>
+    <Contact>09630413305</Contact>
+    <Guardian>Rosalie Marabe</Guardian>
+    <GuardianContact>09284755578</GuardianContact>
+</Student>
+<Student>
+    <LastName>Monta</LastName>
+    <FirstName>Lorefe-Mae</FirstName>
+    <MiddleName>T.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Network and Data Communication</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Balanga City, Bataan</Address>
+    <Email>lorefemaetorres.monta0@gmail.com</Email>
+    <Contact>09187927437</Contact>
+    <Guardian>Abella Monta</Guardian>
+    <GuardianContact>09121346850</GuardianContact>
+</Student>
+<Student>
+    <LastName>Perdio</LastName>
+    <FirstName>Jefte</FirstName>
+    <MiddleName>R.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Network and Data Communication</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Balanga City, Bataan</Address>
+    <Email>perdiojef330@gmail.com</Email>
+    <Contact>09205872063</Contact>
+    <Guardian>>------</Guardian>
+    <GuardianContact>>------</GuardianContact>
+</Student>
+<Student>
+    <LastName>Romero</LastName>
+    <FirstName>Alleyna Jhed</FirstName>
+    <MiddleName>R.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Network and Data Communication</Major>
+    <Year>2</Year>
+    <Section>A</Section>
+    <Address>Alion, Mariveles Bataan</Address>
+    <Email>jhedromero0821@gmail.com</Email>
+    <Contact>09958176700</Contact>
+    <Guardian>------</Guardian>
+    <GuardianContact>>------</GuardianContact>
+</Student>
+<Student>
+    <LastName>Salang</LastName>
+    <FirstName>Lea Hannah</FirstName>
+    <MiddleName>C.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Software Development</Major>
+    <Year>2</Year>
+    <Section>B</Section>
+    <Address>39 Mabini Proper Dinalupihan Bataan</Address>
+    <Email>leahannahcsalang@gmail.com</Email>
+    <Contact>09053128201</Contact>
+    <Guardian>Ceasar Dalang</Guardian>
+    <GuardianContact>09277927786</GuardianContact>
+</Student>
+<Student>
+    <LastName>Vitangcol</LastName>
+    <FirstName>Myrro Stephen</FirstName>
+    <MiddleName>P.</MiddleName>
+    <Course>Bachelor of Science in Computer Science</Course>
+    <Major>Software Development</Major>
+    <Year>3</Year>
+    <Section>A</Section>
+    <Address>Puting buhangin, Orion, Bataan</Address>
+    <Email>myrrovitangcol@gmail.com</Email>
+    <Contact>09668007011</Contact>
+    <Guardian>------</Guardian>
+    <GuardianContact>------</GuardianContact>
+</Student>
+</Students>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Records</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/index_design.css"> 
+    <script type="text/javascript" src="js/dom.js"></script>
+  
+</head>
+<body>
+    <header>
+        <div class="main" id="list">
+            <ul>
+                <li class="active"><a href="index.html">Home</a></li>            
+                <li><a href="information.html">Information</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="aboutus.html">About Us</a></li>
+            </ul>    
+        </div>
+        <div class="logo">
+            <img src="images/logo.gif">
+        </div>
+        
+        <p class="p" id="p2">You can edit the design of the text here:</p>
+            
+        <div class="buttons" id="buttons">
+            <p class="Size" id="Size">Size:</p>
+        <div class="textSize">
+            <button class="btn" onclick="changeTextSize('15px');">Small</button>
+            <button class="btn" onclick="changeTextSize('20px');">Medium</button>
+            <button class="btn" onclick="changeTextSize('30px');">Large</button>
+        </div> 
+            
+            <p class="Color" id="Color">Color:</p>
+        <div class="textColor">
+            <button class="btn" onclick="changeTextColor('#FF99FF');">Pink</button>
+            <button class="btn" onclick="changeTextColor('#00FFFF');">Aqua</button>
+            <button class="btn" onclick="changeTextColor('#66FF66');">Lime</button>
+        </div>
+            
+            <p class="Alignment" id="Alignment">Alignment:</p>
+        <div class="textAlign">
+            <button class="btn" onclick="changeTextAlign('left');">Left</button>
+            <button class="btn" onclick="changeTextAlign('center');">Center</button>
+            <button class="btn" onclick="changeTextAlign('right');">Right</button>
+        </div>    
+        
+            <p class="Font" id="Font">Font:</p>
+        <div class="textFont">
+            <button class="btn" onclick="changeTextFont('Cursive');">Cursive</button>
+            <button class="btn" onclick="changeTextFont('Monospace');">Monospace</button>
+            <button class="btn" onclick="changeTextFont('Fantasy');">Fantasy</button>
+        </div>  
+        
+            <p class="Style" id="Style">Style:</p>
+        <div class="textDesign">
+            <button class="btn" onclick="changeTextDesign('Bold');">Bold</button>
+            <button class="btn" onclick="changeTextDesign('Normal');">Normal</button>
+            <button class="btn" onclick="changeTextDesign('Italic');">Italic</button>
+        </div>
+        </div>
+            
+        <div id="content">
+            <h1 id="h1">BPSU Student Records in CICT</h1> 
+            <p id="p">This website provides an online access to the information about the students and their courses who are currently enrolled at BPSU College of Information and Communication Technology. Extensive information of the students are available to easily track and monitor them through this web application.</p>
+        </div>
+        
+        <div class="vision">
+            <p id="vision"><strong>Vision</strong><br>
+            A leading university in the Philippines recognized for its proactive contribution to sustainable development through equitable and inclusive programs and services by 2030.</p>
+        </div>
+        
+        <div class="mission">
+            <p id="mission"><strong>Mission</strong><br>
+            To develop competitive graduates and empowered community members by providing relevant innovative and transformative knowledge, research, extension and production programs and services through progressive enhancement of its human resource capabilities and institutional mechanisms.</p>
+        </div>
+    </header>
+</body>
+</html>

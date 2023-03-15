@@ -1,0 +1,67 @@
+@media screen and (max-width: 800px){
+    .main a{
+        font-size: 2vw;
+    }
+}
+*{
+    box-sizing:border-box;
+}
+.label p{
+    margin-right: 15vh;
+    color: white;
+    text-align: center;
+    font-size: 4vw;
+    font-weight: bold;
+    font-family: cursive;
+    margin-top: 60px;
+    text-shadow: 2px 2px black;
+}
+.label h3.BSIT{
+    margin-right: 15vh;
+}
+
+.label h3{
+    margin-bottom: 40px;
+    color: white;
+    text-align: center;
+    font-size: 3vw;
+    font-family: cursive;
+    margin-top: 20px;
+    text-shadow: 2px 2px black;
+}
+
+.container{
+    max-width: 1300px;
+    margin: auto;
+    background: #fff;
+    overflow: auto;
+}
+
+.gallery{
+    margin: 5px;
+    border: 3px solid #000;
+    float: left;
+    width: 250px;   
+}
+
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+
+.info{
+    font-weight: bold;
+    padding: 15px;
+    text-align: center;
+}
+
+.gallery img:hover{
+    transform: scale(1.05);
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);    
+}
+
+.container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
