@@ -1,0 +1,49 @@
+@media screen and (max-width: 800px){
+    .main a{
+        font-size: 2vw;
+    }
+}
+
+h1{
+    margin-top: 135px;
+    text-align: center;
+    color: #fff;
+    font-size: 90px; 
+    text-shadow: 2px 2px black;
+}
+
+.cictButton{
+    padding-top: 5%;
+    margin-left: 340px;
+}
+
+.buttons{
+    border: 2px solid #fff;
+    background: none;
+    padding: 5px;
+    color: whitesmoke;
+    text-shadow: 3px 3px black;
+    font-family: monospace;
+    font-size: 20px;
+    width: 15%;
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-top: -200px;
+}
+table,th,td {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    border : 3px double #99CCFF;
+    border-radius: 15px;
+    font-family: sans-serif;
+    font-size: 15px;
+    border-collapse:collapse;
+}
+th,td {
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}
+td{
+    font-family: monospace;
+}

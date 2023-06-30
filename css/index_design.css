@@ -1,0 +1,106 @@
+@media screen and (max-width: 800px){
+    .main a{
+        font-size: 2vw;
+    }
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 120px;
+    color: #fff;
+    font-size: 75px; 
+    text-shadow: 3px 3px black;
+}
+
+p{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 10px 0px 0px 20px;
+    padding: 0 5% 0 5%;
+    color: #fff;
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+}
+
+.p{
+    margin-top: 35px;
+    margin-right: 800px;
+    padding: 0% 0% 0% 0%;
+}
+
+.vision p{
+    margin-top: 20px;
+    font-size: 15px;
+    padding: 0 20% 0 20%;
+}
+
+.mission p{
+    font-size: 15px;
+    padding: 0 20% 0 20%;
+}
+
+.btn{
+    margin-top: 20px;
+    border: 1px solid #fff;
+    background: #CCCCCC;
+    padding: 3px 5px 3px 5px;
+    color: black;
+    border-radius: 10px;
+    width: 80px;
+    font-size: 13px;
+}
+
+.textSize{
+    margin-left: 180px;
+    margin-top: -45px;
+}
+
+.Size{
+    margin-right: 1100px;
+}
+
+.textColor{
+    margin-left: 180px;
+    margin-top: -45px;
+}
+
+.Color{
+    
+    margin-right: 1110px;
+}
+
+.textAlign{
+    margin-left: 180px;
+    margin-top: -45px;
+}
+
+.Alignment{
+    margin-left: 13px;
+    margin-right: 1200px;
+}
+
+.textFont{
+    margin-left: 500px;
+    margin-top: -45px;
+}
+
+.Font{
+    margin-top: -92px;
+    margin-right: 470px;
+}
+
+.textDesign{
+    margin-left: 500px;
+    margin-top: -45px;
+}
+
+.Style{
+    margin-right: 470px;
+}
